@@ -17,7 +17,7 @@ nav {
     height: 50px;
     background-color: #ed3b59;
     align-items: center;
-    padding: 10px 10px;
+    padding: 20px 50px;
 }
 
 .logo h1 {
@@ -41,4 +41,12 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     color: white;
+}
+
+.home{
+    padding: 20px 50px;
+}
+
+.home img{
+    margin-top: 20px;
 }

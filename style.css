@@ -25,6 +25,10 @@ nav {
     color: white;
 }
 
+.logo a {
+    text-decoration: none;
+}
+
 
 nav ul {
     display: flex;
@@ -43,10 +47,10 @@ nav ul li a {
     color: white;
 }
 
-.home{
+.home {
     padding: 20px 50px;
 }
 
-.home img{
+.home img {
     margin-top: 20px;
 }
